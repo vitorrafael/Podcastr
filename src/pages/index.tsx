@@ -5,7 +5,7 @@ type Episode = {
     id: string;
     title: string;
     members: string;
-    publishedAt: string;
+    published_at: string;
     thumbnail: string;
     description: string;
     file: {
